@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramonivandy/leetcode-solved/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/ramonivandy/leetcode-solved/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->

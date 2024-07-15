@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramonivandy/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [2645-pass-the-pillow](https://github.com/ramonivandy/leetcode-solved/tree/master/2645-pass-the-pillow) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ramonivandy/leetcode-solved/tree/master/2812-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
 | ------- |

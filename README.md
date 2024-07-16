@@ -15,12 +15,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/ramonivandy/leetcode-solved/tree/master/2058-concatenation-of-array) |
 | [2645-pass-the-pillow](https://github.com/ramonivandy/leetcode-solved/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramonivandy/leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramonivandy/leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2058-concatenation-of-array](https://github.com/ramonivandy/leetcode-solved/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |

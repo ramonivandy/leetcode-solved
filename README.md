@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ramonivandy/leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ramonivandy/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [2556-convert-the-temperature](https://github.com/ramonivandy/leetcode-solved/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/ramonivandy/leetcode-solved/tree/master/2645-pass-the-pillow) |
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/ramonivandy/leetcode-solved/tree/master/3379-score-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ramonivandy/leetcode-solved/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ramonivandy/leetcode-solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

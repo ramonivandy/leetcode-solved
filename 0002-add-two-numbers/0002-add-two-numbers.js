@@ -15,8 +15,7 @@ var addTwoNumbers = function (l1, l2) {
         return [0]
     }
 
-    let index = 1;
-    let res = new ListNode(index);
+    let res = new ListNode();
     let returnRes = res;
 
     let carrier = 0;
@@ -40,8 +39,7 @@ var addTwoNumbers = function (l1, l2) {
         }
 
         if(l1 && l1.next || l2 && l2.next){
-            index++
-            res.next = new ListNode(index)
+            res.next = new ListNode()
             res = res.next
         }
 
@@ -49,8 +47,7 @@ var addTwoNumbers = function (l1, l2) {
         l2 = l2 ? l2.next : null;
 
         if(!l1 && !l2 && carrier > 0){
-            index++
-            res.next = new ListNode(index)
+            res.next = new ListNode()
             res.next.val = carrier
         }
     }

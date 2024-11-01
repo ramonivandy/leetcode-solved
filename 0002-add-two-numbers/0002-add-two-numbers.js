@@ -11,7 +11,7 @@
  * @return {ListNode}
  */
 var addTwoNumbers = function (l1, l2) {
-    if (l1.next == null && l2 == null) {
+    if (l1 == null && l2 == null) {
         return [0]
     }
 

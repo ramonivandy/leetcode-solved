@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/ramonivandy/leetcode-solved/tree/master/0812-rotate-string) |
 | [3379-score-of-a-string](https://github.com/ramonivandy/leetcode-solved/tree/master/3379-score-of-a-string) |
 ## Linked List
 |  |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramonivandy/leetcode-solved/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ramonivandy/leetcode-solved/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

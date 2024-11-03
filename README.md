@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ramonivandy/leetcode-solved/tree/master/0812-rotate-string) |
+| [2580-circular-sentence](https://github.com/ramonivandy/leetcode-solved/tree/master/2580-circular-sentence) |
 | [3379-score-of-a-string](https://github.com/ramonivandy/leetcode-solved/tree/master/3379-score-of-a-string) |
 ## Linked List
 |  |

@@ -3,17 +3,17 @@
  * @return {number}
  */
 var minOperations = function(logs) {
-    let count = 0;
+    let stack = [];
 
     for(let i = 0; i < logs.length; i++){
-        if(logs[i] == "../"){
-            count--;
-        } else if(logs[i] == "./") {
+        if(logs[i] == "./") {
             continue;
+        } else if (logs[i] == "../"){
+            stack.pop();
         } else {
-            count++
+            stack.push(logs[i]);
         }
     }
 
-    return count < 0 ? 0 : count;
+    return stack.length;
 };

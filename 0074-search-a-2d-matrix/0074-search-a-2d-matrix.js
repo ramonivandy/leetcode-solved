@@ -4,12 +4,6 @@
  * @return {boolean}
  */
 var searchMatrix = function(matrix, target) {
-    // cek start dan end array nya
-    // jika start > target, geser array ke kanan
-    // jika start < target, cek lagi. jika end < target, geser array ke kanan.
-    // jika start < target dan target < end, found it the array. 
-    // do binary search to the array.
-
     let leftMatrix = 0;
     let rightMatrix = matrix.length - 1;
     let matrixIndex = 0;

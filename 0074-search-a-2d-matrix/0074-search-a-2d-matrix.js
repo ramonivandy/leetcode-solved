@@ -14,7 +14,7 @@ var searchMatrix = function(matrix, target) {
     let rightMatrix = matrix.length - 1;
     let matrixIndex = 0;
 
-    while(leftMatrix < rightMatrix){
+    while(leftMatrix <= rightMatrix){
         let mid = Math.trunc((leftMatrix + rightMatrix) / 2);
 
         let start = matrix[mid][0]
